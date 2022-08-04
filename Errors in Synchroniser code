@@ -1,0 +1,12 @@
+Error 1: 
+  Using task name and the same name as variable name created error in Test Bench
+  
+Error 2:
+
+  Missed semicolon in the task declaration line
+  
+ Error 3: 
+ 
+  Code Compilation of the synchrnoizer rtl and tb was successful but simulation wave not coming
+   
+ 
